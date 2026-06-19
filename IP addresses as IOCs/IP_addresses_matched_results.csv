@@ -1,0 +1,10 @@
+﻿IP Address,Match Status,Matched Field,@timestamp,Source IP,Destination IP
+23.128.228.6,No match,N/A,N/A,N/A,N/A
+104.207.144.154,No match,N/A,N/A,N/A,N/A
+146.19.216.119,No match,N/A,N/A,N/A,N/A
+146.19.216.120,Match found,destination.ip,"Mar 5, 2025 @ 09:00:14.233",10.10.12.45,146.19.216.120
+146.19.216.125,Match found,destination.ip,"Mar 5, 2025 @ 09:07:11.764",10.10.20.88,146.19.216.125
+179.43.172.213,Match found,destination.ip,"Mar 5, 2025 @ 09:14:56.775",172.16.5.43,179.43.172.213
+185.195.232.139,No match,N/A,N/A,N/A,N/A
+198.12.106.60,No match,N/A,N/A,N/A,N/A
+202.144.192.47,No match,N/A,N/A,N/A,N/A
