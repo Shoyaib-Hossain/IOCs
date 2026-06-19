@@ -11,11 +11,17 @@ This approach reflects common real-world cyber threat intelligence workflows, wh
 The experiment aims to demonstrate the extent to which current LLMs can support practical, low-barrier CTI workflows by assisting analysts in identifying relevant IOCs from structured security datasets without requiring additional programmatic integration.
 
 
-*Any production use of similar CTI workflows would require additional security controls, data validation, analyst review, monitoring, governance, and compliance alignment with relevant organisational, legal, and regulatory requirements, including but not limited to GDPR, SOC 2, ISO/IEC 27001, and applicable cybersecurity policies.*
+## 
 
-**© 2025 — IOC-Based CTI Analysis Project**  
-Maintained by **Md Shoyaib Hossain**. All rights reserved.
+This project presents a CTI experiment using synthetic IOC datasets and conversational LLM file-upload interaction. The datasets include IP addresses, file hashes, URLs, mutexes, registry keys, email addresses, user-agent strings, and JA3/JA4 fingerprints.
+
+The datasets are intended for research, testing, and educational use only. They do not represent live production telemetry or verified threat intelligence feeds.
+
+Production use of similar workflows would require further validation, security review, monitoring, and compliance measures, including GDPR, SOC 2, and ISO/IEC 27001 where applicable.
+
+© 2025 — IOC-Based CTI Analysis Project  
+Maintained by Md Shoyaib Hossain. All rights reserved.
 
 ---
 
-*For questions, issues, suggestions, or contributions, please open an issue in the project repository.*
+For questions, issues, or contributions, please open an issue in the project repository.
