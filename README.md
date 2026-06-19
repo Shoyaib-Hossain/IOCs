@@ -19,7 +19,7 @@ The datasets are intended for research, testing, and educational use only. They 
 
 Production use of similar workflows would require further validation, security review, monitoring, and compliance measures, including GDPR, SOC 2, and ISO/IEC 27001 where applicable.
 
-© 2025 — IOC-Based CTI Analysis Project  
+© 2026 — IOC-Based CTI Analysis Project  
 Maintained by Md Shoyaib Hossain. All rights reserved.
 
 ---
