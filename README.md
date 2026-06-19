@@ -1,4 +1,4 @@
-## Experiments / Methodology
+## Methodology
 
 ### Conversational File-Upload Interaction
 
