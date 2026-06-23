@@ -1,0 +1,2 @@
+﻿Mutex,Match Status,Matched Field,timestamp_utc,process_name,host,source_ip
+QSR_MUTEX_5wFxVjrlzCZeil93t9,Matched,ioc_value,2026-06-01T01:33:13+00:00,svchost.exe,ENG-LAB-055,10.2.219.230
