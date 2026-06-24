@@ -1,0 +1,4 @@
+﻿Registry Key,Match Status,Matched Field,timestamp_utc,process_name,host,source_ip
+HKLM\Software\E9F9EEC3-86CA-4EBE-9AA4-1B55EE8D114E,Found,ioc_value,2026-06-01T01:40:57+00:00,powershell.exe,ENG-LAB-023,10.1.130.12
+HKLM\SOFTWARE\WOW6432Node\MicroWorld\eScan for Windows\ODS,Found,ioc_value,2026-06-01T01:49:15+00:00,powershell.exe,ENG-LAB-005,10.0.201.152
+HKLM\SOFTWARE\WOW6432Node\MicroWorld\eScan for Windows\MwMonitor,Found,ioc_value,2026-06-01T01:54:23+00:00,powershell.exe,ENG-LAB-053,10.2.250.65
