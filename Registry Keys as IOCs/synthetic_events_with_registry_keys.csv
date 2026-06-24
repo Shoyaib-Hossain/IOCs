@@ -1,0 +1,501 @@
+﻿event_id,timestamp_utc,host,user,process_name,event_type,ioc_type,ioc_value,source_ip
+evt-registry_keys-000001,2026-06-01T01:40:57+00:00,ENG-LAB-023,user053,powershell.exe,registry_write,Registry Key,HKLM\Software\E9F9EEC3-86CA-4EBE-9AA4-1B55EE8D114E,10.1.130.12
+evt-registry_keys-000002,2026-06-01T01:49:15+00:00,ENG-LAB-005,user100,powershell.exe,registry_write,Registry Key,HKLM\SOFTWARE\WOW6432Node\MicroWorld\eScan for Windows\ODS,10.0.201.152
+evt-registry_keys-000003,2026-06-01T01:54:23+00:00,ENG-LAB-053,user036,powershell.exe,registry_write,Registry Key,HKLM\SOFTWARE\WOW6432Node\MicroWorld\eScan for Windows\MwMonitor,10.2.250.65
+evt-registry_keys-000004,2026-06-01T02:59:21+00:00,ENG-LAB-013,user086,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.3.128.249
+evt-registry_keys-000005,2026-06-01T04:25:56+00:00,ENG-LAB-006,user067,winword.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services,10.3.79.237
+evt-registry_keys-000006,2026-06-01T04:46:20+00:00,ENG-LAB-055,user022,outlook.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\LabUpdater,10.1.13.144
+evt-registry_keys-000007,2026-06-01T05:02:40+00:00,ENG-LAB-024,user092,svchost.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\SampleService,10.3.146.109
+evt-registry_keys-000008,2026-06-01T06:02:06+00:00,ENG-LAB-010,user096,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.1.214.57
+evt-registry_keys-000009,2026-06-01T06:06:23+00:00,ENG-LAB-004,user066,chrome.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.3.25.143
+evt-registry_keys-000010,2026-06-01T07:10:33+00:00,ENG-LAB-007,user094,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.0.56.40
+evt-registry_keys-000011,2026-06-01T07:50:52+00:00,ENG-LAB-051,user040,svchost.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.0.120.104
+evt-registry_keys-000012,2026-06-01T08:08:11+00:00,ENG-LAB-015,user023,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\LabUpdater,10.2.248.161
+evt-registry_keys-000013,2026-06-01T08:57:25+00:00,ENG-LAB-031,user020,outlook.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\LabUpdater,10.1.13.144
+evt-registry_keys-000014,2026-06-01T09:15:07+00:00,ENG-LAB-004,user042,python.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.1.252.24
+evt-registry_keys-000015,2026-06-01T09:20:53+00:00,ENG-LAB-053,user076,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.3.208.85
+evt-registry_keys-000016,2026-06-01T09:48:02+00:00,ENG-LAB-013,user008,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.2.234.81
+evt-registry_keys-000017,2026-06-01T11:17:06+00:00,ENG-LAB-009,user096,outlook.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.0.127.50
+evt-registry_keys-000018,2026-06-01T13:13:03+00:00,ENG-LAB-042,user090,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.1.110.246
+evt-registry_keys-000019,2026-06-01T15:29:46+00:00,ENG-LAB-030,user033,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run,10.0.117.18
+evt-registry_keys-000020,2026-06-01T15:44:41+00:00,ENG-LAB-042,user098,reg.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command,10.1.18.214
+evt-registry_keys-000021,2026-06-01T16:16:32+00:00,ENG-LAB-054,user081,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.2.226.157
+evt-registry_keys-000022,2026-06-01T17:02:39+00:00,ENG-LAB-004,user002,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.0.47.163
+evt-registry_keys-000023,2026-06-01T17:29:25+00:00,ENG-LAB-055,user044,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.0.170.198
+evt-registry_keys-000024,2026-06-01T17:41:15+00:00,ENG-LAB-004,user016,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\LabUpdater,10.2.35.226
+evt-registry_keys-000025,2026-06-01T18:18:17+00:00,ENG-LAB-028,user072,reg.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System,10.2.181.54
+evt-registry_keys-000026,2026-06-01T20:17:31+00:00,ENG-LAB-028,user060,reg.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.0.169.160
+evt-registry_keys-000027,2026-06-01T20:21:25+00:00,ENG-LAB-053,user081,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.3.0.134
+evt-registry_keys-000028,2026-06-01T20:27:16+00:00,ENG-LAB-047,user062,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.2.174.29
+evt-registry_keys-000029,2026-06-01T21:08:52+00:00,ENG-LAB-015,user086,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.1.242.63
+evt-registry_keys-000030,2026-06-01T21:10:59+00:00,ENG-LAB-035,user016,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.0.31.192
+evt-registry_keys-000031,2026-06-01T21:31:29+00:00,ENG-LAB-047,user076,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.3.84.216
+evt-registry_keys-000032,2026-06-01T21:34:39+00:00,ENG-LAB-001,user025,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.3.79.237
+evt-registry_keys-000033,2026-06-01T22:55:02+00:00,ENG-LAB-029,user025,chrome.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.47.56
+evt-registry_keys-000034,2026-06-02T00:06:38+00:00,ENG-LAB-004,user001,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.2.111.248
+evt-registry_keys-000035,2026-06-02T01:39:59+00:00,ENG-LAB-008,user051,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.2.223.156
+evt-registry_keys-000036,2026-06-02T02:36:16+00:00,ENG-LAB-038,user016,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.0.170.198
+evt-registry_keys-000037,2026-06-02T02:43:16+00:00,ENG-LAB-001,user056,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.0.193.21
+evt-registry_keys-000038,2026-06-02T03:18:45+00:00,ENG-LAB-006,user050,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.1.21.79
+evt-registry_keys-000039,2026-06-02T03:50:27+00:00,ENG-LAB-041,user063,teams.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\TestPersistence,10.2.104.176
+evt-registry_keys-000040,2026-06-02T04:48:21+00:00,ENG-LAB-055,user012,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.1.249.57
+evt-registry_keys-000041,2026-06-02T04:51:29+00:00,ENG-LAB-011,user028,powershell.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.2.75.111
+evt-registry_keys-000042,2026-06-02T05:45:02+00:00,ENG-LAB-055,user009,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.3.169.241
+evt-registry_keys-000043,2026-06-02T06:40:45+00:00,ENG-LAB-009,user026,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.1.109.17
+evt-registry_keys-000044,2026-06-02T07:38:04+00:00,ENG-LAB-020,user078,msedge.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.0.98.103
+evt-registry_keys-000045,2026-06-02T08:45:00+00:00,ENG-LAB-049,user069,chrome.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\SampleService,10.3.167.104
+evt-registry_keys-000046,2026-06-02T08:50:38+00:00,ENG-LAB-047,user017,rundll32.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.0.95.18
+evt-registry_keys-000047,2026-06-02T08:56:10+00:00,ENG-LAB-039,user080,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.3.208.85
+evt-registry_keys-000048,2026-06-02T09:14:51+00:00,ENG-LAB-054,user097,chrome.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.3.239.222
+evt-registry_keys-000049,2026-06-02T10:17:30+00:00,ENG-LAB-054,user054,rundll32.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command,10.3.61.64
+evt-registry_keys-000050,2026-06-02T11:18:10+00:00,ENG-LAB-002,user072,rundll32.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services,10.0.235.138
+evt-registry_keys-000051,2026-06-02T11:47:09+00:00,ENG-LAB-045,user052,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.2.222.41
+evt-registry_keys-000052,2026-06-02T11:58:36+00:00,ENG-LAB-017,user094,svchost.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\SampleService,10.1.249.57
+evt-registry_keys-000053,2026-06-02T12:04:03+00:00,ENG-LAB-003,user033,reg.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.1.211.7
+evt-registry_keys-000054,2026-06-02T12:19:11+00:00,ENG-LAB-035,user042,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run,10.1.109.17
+evt-registry_keys-000055,2026-06-02T12:32:20+00:00,ENG-LAB-046,user062,teams.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\LabUpdater,10.1.32.87
+evt-registry_keys-000056,2026-06-02T12:34:53+00:00,ENG-LAB-028,user045,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.1.142.172
+evt-registry_keys-000057,2026-06-02T13:06:02+00:00,ENG-LAB-013,user076,chrome.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.2.158.171
+evt-registry_keys-000058,2026-06-02T14:09:10+00:00,ENG-LAB-004,user043,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.3.65.252
+evt-registry_keys-000059,2026-06-02T14:31:14+00:00,ENG-LAB-018,user018,reg.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.3.214.138
+evt-registry_keys-000060,2026-06-02T14:43:09+00:00,ENG-LAB-043,user017,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.3.65.252
+evt-registry_keys-000061,2026-06-02T17:50:09+00:00,ENG-LAB-012,user098,outlook.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.1.110.246
+evt-registry_keys-000062,2026-06-02T17:53:07+00:00,ENG-LAB-009,user025,powershell.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\SampleService,10.3.69.222
+evt-registry_keys-000063,2026-06-02T19:03:14+00:00,ENG-LAB-004,user036,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.0.59.225
+evt-registry_keys-000064,2026-06-02T19:28:28+00:00,ENG-LAB-018,user053,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.1.159.103
+evt-registry_keys-000065,2026-06-02T20:19:26+00:00,ENG-LAB-022,user097,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.2.91.149
+evt-registry_keys-000066,2026-06-02T21:08:13+00:00,ENG-LAB-058,user099,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\LabUpdater,10.3.135.238
+evt-registry_keys-000067,2026-06-02T22:20:28+00:00,ENG-LAB-029,user100,reg.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\TestPersistence,10.3.25.143
+evt-registry_keys-000068,2026-06-02T22:25:56+00:00,ENG-LAB-024,user009,powershell.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System,10.3.93.72
+evt-registry_keys-000069,2026-06-02T22:26:37+00:00,ENG-LAB-033,user097,chrome.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.2.53.241
+evt-registry_keys-000070,2026-06-02T23:25:30+00:00,ENG-LAB-017,user070,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.3.212.16
+evt-registry_keys-000071,2026-06-03T01:23:40+00:00,ENG-LAB-026,user041,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.1.78.96
+evt-registry_keys-000072,2026-06-03T01:55:40+00:00,ENG-LAB-044,user026,rundll32.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services,10.2.35.226
+evt-registry_keys-000073,2026-06-03T04:44:34+00:00,ENG-LAB-044,user083,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.2.36.156
+evt-registry_keys-000074,2026-06-03T07:03:46+00:00,ENG-LAB-028,user042,teams.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.3.127.224
+evt-registry_keys-000075,2026-06-03T09:48:47+00:00,ENG-LAB-009,user025,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.1.220.202
+evt-registry_keys-000076,2026-06-03T10:12:03+00:00,ENG-LAB-020,user086,powershell.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.2.122.68
+evt-registry_keys-000077,2026-06-03T11:35:18+00:00,ENG-LAB-050,user012,chrome.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.1.134.42
+evt-registry_keys-000078,2026-06-03T13:10:35+00:00,ENG-LAB-009,user077,python.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services,10.2.126.216
+evt-registry_keys-000079,2026-06-03T13:26:22+00:00,ENG-LAB-028,user006,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.0.117.18
+evt-registry_keys-000080,2026-06-03T13:37:40+00:00,ENG-LAB-030,user055,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.0.70.39
+evt-registry_keys-000081,2026-06-03T14:35:25+00:00,ENG-LAB-038,user025,outlook.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command,10.1.78.96
+evt-registry_keys-000082,2026-06-03T15:12:51+00:00,ENG-LAB-021,user041,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.3.246.55
+evt-registry_keys-000083,2026-06-03T16:17:09+00:00,ENG-LAB-007,user058,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.1.148.253
+evt-registry_keys-000084,2026-06-03T16:19:29+00:00,ENG-LAB-032,user059,outlook.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.2.223.125
+evt-registry_keys-000085,2026-06-03T19:53:58+00:00,ENG-LAB-017,user005,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.1.32.87
+evt-registry_keys-000086,2026-06-03T20:11:34+00:00,ENG-LAB-048,user079,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.3.84.216
+evt-registry_keys-000087,2026-06-03T22:43:20+00:00,ENG-LAB-034,user074,winword.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\TestPersistence,10.3.174.72
+evt-registry_keys-000088,2026-06-03T22:51:23+00:00,ENG-LAB-055,user066,powershell.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\DemoValue,10.3.35.251
+evt-registry_keys-000089,2026-06-04T00:01:31+00:00,ENG-LAB-005,user009,powershell.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\TestPersistence,10.2.116.58
+evt-registry_keys-000090,2026-06-04T00:36:12+00:00,ENG-LAB-027,user073,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.1.216.153
+evt-registry_keys-000091,2026-06-04T01:50:03+00:00,ENG-LAB-034,user024,python.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\DemoValue,10.3.73.68
+evt-registry_keys-000092,2026-06-04T03:06:07+00:00,ENG-LAB-002,user021,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.3.25.143
+evt-registry_keys-000093,2026-06-04T03:38:54+00:00,ENG-LAB-022,user024,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.2.91.130
+evt-registry_keys-000094,2026-06-04T04:18:51+00:00,ENG-LAB-051,user029,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.0.145.132
+evt-registry_keys-000095,2026-06-04T04:50:18+00:00,ENG-LAB-018,user023,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.0.201.152
+evt-registry_keys-000096,2026-06-04T04:57:38+00:00,ENG-LAB-031,user043,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.0.170.198
+evt-registry_keys-000097,2026-06-04T05:13:51+00:00,ENG-LAB-007,user012,msedge.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\TestPersistence,10.0.98.103
+evt-registry_keys-000098,2026-06-04T05:57:28+00:00,ENG-LAB-039,user099,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.1.0.154
+evt-registry_keys-000099,2026-06-04T06:21:57+00:00,ENG-LAB-007,user088,winword.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.0.12.190
+evt-registry_keys-000100,2026-06-04T06:51:18+00:00,ENG-LAB-041,user094,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.58.175
+evt-registry_keys-000101,2026-06-04T07:48:50+00:00,ENG-LAB-018,user041,rundll32.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command,10.3.169.241
+evt-registry_keys-000102,2026-06-04T08:01:55+00:00,ENG-LAB-051,user002,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.0.59.225
+evt-registry_keys-000103,2026-06-04T08:24:25+00:00,ENG-LAB-038,user098,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.0.56.40
+evt-registry_keys-000104,2026-06-04T08:55:02+00:00,ENG-LAB-057,user018,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.1.83.250
+evt-registry_keys-000105,2026-06-04T09:04:13+00:00,ENG-LAB-032,user037,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.1.186.111
+evt-registry_keys-000106,2026-06-04T09:19:05+00:00,ENG-LAB-023,user075,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.3.185.57
+evt-registry_keys-000107,2026-06-04T09:53:25+00:00,ENG-LAB-025,user073,msedge.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\SampleService,10.1.216.153
+evt-registry_keys-000108,2026-06-04T11:01:10+00:00,ENG-LAB-027,user016,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.3.128.249
+evt-registry_keys-000109,2026-06-04T11:57:26+00:00,ENG-LAB-007,user056,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.1.196.178
+evt-registry_keys-000110,2026-06-04T12:06:43+00:00,ENG-LAB-030,user010,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.3.1.245
+evt-registry_keys-000111,2026-06-04T12:28:38+00:00,ENG-LAB-024,user074,powershell.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.3.69.222
+evt-registry_keys-000112,2026-06-04T13:08:54+00:00,ENG-LAB-009,user031,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.3.239.222
+evt-registry_keys-000113,2026-06-04T13:35:42+00:00,ENG-LAB-025,user067,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.1.214.57
+evt-registry_keys-000114,2026-06-04T13:43:14+00:00,ENG-LAB-048,user006,powershell.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.3.35.251
+evt-registry_keys-000115,2026-06-04T14:28:08+00:00,ENG-LAB-058,user005,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.2.248.161
+evt-registry_keys-000116,2026-06-04T14:52:30+00:00,ENG-LAB-025,user001,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.0.142.90
+evt-registry_keys-000117,2026-06-04T15:18:53+00:00,ENG-LAB-013,user097,teams.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.0.185.225
+evt-registry_keys-000118,2026-06-04T16:31:40+00:00,ENG-LAB-039,user097,chrome.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\LabUpdater,10.2.219.230
+evt-registry_keys-000119,2026-06-04T16:43:39+00:00,ENG-LAB-031,user085,msedge.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.2.104.176
+evt-registry_keys-000120,2026-06-04T17:09:52+00:00,ENG-LAB-056,user027,reg.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\LabUpdater,10.1.65.169
+evt-registry_keys-000121,2026-06-04T17:30:23+00:00,ENG-LAB-007,user098,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.2.248.161
+evt-registry_keys-000122,2026-06-04T18:03:21+00:00,ENG-LAB-011,user077,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.3.186.42
+evt-registry_keys-000123,2026-06-04T19:27:49+00:00,ENG-LAB-060,user094,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.1.214.57
+evt-registry_keys-000124,2026-06-04T20:19:23+00:00,ENG-LAB-055,user033,winword.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\DemoValue,10.2.116.58
+evt-registry_keys-000125,2026-06-04T22:40:41+00:00,ENG-LAB-021,user095,chrome.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services,10.3.49.92
+evt-registry_keys-000126,2026-06-04T22:42:07+00:00,ENG-LAB-047,user093,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.1.154.104
+evt-registry_keys-000127,2026-06-05T01:12:20+00:00,ENG-LAB-040,user098,chrome.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.1.130.12
+evt-registry_keys-000128,2026-06-05T01:27:53+00:00,ENG-LAB-018,user043,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.1.140.113
+evt-registry_keys-000129,2026-06-05T02:41:02+00:00,ENG-LAB-008,user080,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run,10.3.212.16
+evt-registry_keys-000130,2026-06-05T02:58:01+00:00,ENG-LAB-042,user064,msedge.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\LabUpdater,10.1.125.42
+evt-registry_keys-000131,2026-06-05T03:57:13+00:00,ENG-LAB-048,user089,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.0.127.50
+evt-registry_keys-000132,2026-06-05T05:24:40+00:00,ENG-LAB-016,user082,powershell.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.0.169.160
+evt-registry_keys-000133,2026-06-05T05:35:14+00:00,ENG-LAB-027,user040,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.3.61.64
+evt-registry_keys-000134,2026-06-05T05:42:43+00:00,ENG-LAB-041,user031,svchost.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\TestPersistence,10.3.208.49
+evt-registry_keys-000135,2026-06-05T06:25:31+00:00,ENG-LAB-036,user031,chrome.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\TestPersistence,10.2.238.114
+evt-registry_keys-000136,2026-06-05T07:10:24+00:00,ENG-LAB-037,user011,outlook.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\SampleService,10.2.36.156
+evt-registry_keys-000137,2026-06-05T07:24:23+00:00,ENG-LAB-025,user012,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.1.32.87
+evt-registry_keys-000138,2026-06-05T07:24:44+00:00,ENG-LAB-008,user090,msedge.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.3.246.55
+evt-registry_keys-000139,2026-06-05T08:11:27+00:00,ENG-LAB-048,user048,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.1.75.168
+evt-registry_keys-000140,2026-06-05T08:18:01+00:00,ENG-LAB-002,user004,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.1.78.96
+evt-registry_keys-000141,2026-06-05T09:11:42+00:00,ENG-LAB-047,user048,reg.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.1.159.103
+evt-registry_keys-000142,2026-06-05T09:59:21+00:00,ENG-LAB-020,user031,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.2.142.222
+evt-registry_keys-000143,2026-06-05T10:15:34+00:00,ENG-LAB-058,user074,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.2.174.29
+evt-registry_keys-000144,2026-06-05T10:16:55+00:00,ENG-LAB-047,user085,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\LabUpdater,10.2.19.28
+evt-registry_keys-000145,2026-06-05T10:27:33+00:00,ENG-LAB-052,user065,outlook.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.2.133.53
+evt-registry_keys-000146,2026-06-05T10:45:32+00:00,ENG-LAB-003,user053,rundll32.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command,10.2.135.207
+evt-registry_keys-000147,2026-06-05T10:58:55+00:00,ENG-LAB-006,user023,teams.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\DemoValue,10.0.47.163
+evt-registry_keys-000148,2026-06-05T11:02:34+00:00,ENG-LAB-050,user085,powershell.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\LabUpdater,10.0.170.198
+evt-registry_keys-000149,2026-06-05T12:09:18+00:00,ENG-LAB-041,user055,reg.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.3.186.42
+evt-registry_keys-000150,2026-06-05T13:33:14+00:00,ENG-LAB-023,user083,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.199.87
+evt-registry_keys-000151,2026-06-05T13:43:44+00:00,ENG-LAB-056,user036,rundll32.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command,10.0.58.175
+evt-registry_keys-000152,2026-06-05T15:46:07+00:00,ENG-LAB-059,user082,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.0.216.9
+evt-registry_keys-000153,2026-06-05T16:16:12+00:00,ENG-LAB-049,user073,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.3.127.224
+evt-registry_keys-000154,2026-06-05T18:49:52+00:00,ENG-LAB-035,user047,msedge.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\SampleService,10.3.86.169
+evt-registry_keys-000155,2026-06-05T19:16:09+00:00,ENG-LAB-022,user088,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.0.4.118
+evt-registry_keys-000156,2026-06-05T21:43:27+00:00,ENG-LAB-050,user082,powershell.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\SampleService,10.2.65.50
+evt-registry_keys-000157,2026-06-06T01:00:45+00:00,ENG-LAB-021,user010,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.1.186.111
+evt-registry_keys-000158,2026-06-06T01:07:43+00:00,ENG-LAB-012,user009,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.1.215.100
+evt-registry_keys-000159,2026-06-06T02:01:21+00:00,ENG-LAB-056,user088,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.1.196.178
+evt-registry_keys-000160,2026-06-06T02:11:00+00:00,ENG-LAB-001,user086,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.0.4.118
+evt-registry_keys-000161,2026-06-06T02:35:53+00:00,ENG-LAB-045,user029,winword.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.3.99.184
+evt-registry_keys-000162,2026-06-06T03:00:11+00:00,ENG-LAB-041,user025,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.2.250.65
+evt-registry_keys-000163,2026-06-06T04:00:57+00:00,ENG-LAB-029,user033,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.1.196.178
+evt-registry_keys-000164,2026-06-06T04:37:08+00:00,ENG-LAB-009,user037,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.1.85.105
+evt-registry_keys-000165,2026-06-06T06:04:15+00:00,ENG-LAB-048,user006,msedge.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.3.84.68
+evt-registry_keys-000166,2026-06-06T07:29:58+00:00,ENG-LAB-056,user041,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.3.79.49
+evt-registry_keys-000167,2026-06-06T09:47:31+00:00,ENG-LAB-060,user051,reg.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System,10.1.249.57
+evt-registry_keys-000168,2026-06-06T10:07:36+00:00,ENG-LAB-051,user014,powershell.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\LabUpdater,10.0.54.200
+evt-registry_keys-000169,2026-06-06T10:25:44+00:00,ENG-LAB-020,user034,rundll32.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command,10.1.110.246
+evt-registry_keys-000170,2026-06-06T10:30:25+00:00,ENG-LAB-001,user056,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.3.181.109
+evt-registry_keys-000171,2026-06-06T11:16:05+00:00,ENG-LAB-009,user054,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.3.69.222
+evt-registry_keys-000172,2026-06-06T11:24:37+00:00,ENG-LAB-051,user099,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.2.47.210
+evt-registry_keys-000173,2026-06-06T12:41:04+00:00,ENG-LAB-012,user048,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.1.32.87
+evt-registry_keys-000174,2026-06-06T13:04:55+00:00,ENG-LAB-031,user028,winword.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.2.20.231
+evt-registry_keys-000175,2026-06-06T13:44:20+00:00,ENG-LAB-003,user044,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.0.117.151
+evt-registry_keys-000176,2026-06-06T14:00:09+00:00,ENG-LAB-058,user082,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.2.135.207
+evt-registry_keys-000177,2026-06-06T15:12:05+00:00,ENG-LAB-022,user022,powershell.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.1.166.216
+evt-registry_keys-000178,2026-06-06T15:50:29+00:00,ENG-LAB-058,user020,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.0.95.18
+evt-registry_keys-000179,2026-06-06T16:12:07+00:00,ENG-LAB-043,user019,rundll32.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\TestPersistence,10.1.110.246
+evt-registry_keys-000180,2026-06-06T16:41:46+00:00,ENG-LAB-002,user080,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.0.56.40
+evt-registry_keys-000181,2026-06-06T17:08:29+00:00,ENG-LAB-028,user001,msedge.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.0.193.21
+evt-registry_keys-000182,2026-06-06T17:10:44+00:00,ENG-LAB-052,user035,teams.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\LabUpdater,10.1.135.34
+evt-registry_keys-000183,2026-06-06T17:48:13+00:00,ENG-LAB-033,user004,outlook.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.0.152.216
+evt-registry_keys-000184,2026-06-06T18:59:20+00:00,ENG-LAB-036,user066,msedge.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.2.194.84
+evt-registry_keys-000185,2026-06-06T22:48:06+00:00,ENG-LAB-049,user016,reg.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.2.223.156
+evt-registry_keys-000186,2026-06-06T23:41:54+00:00,ENG-LAB-011,user082,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.1.215.100
+evt-registry_keys-000187,2026-06-06T23:43:49+00:00,ENG-LAB-051,user021,winword.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.2.19.28
+evt-registry_keys-000188,2026-06-07T04:53:26+00:00,ENG-LAB-045,user002,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.3.239.222
+evt-registry_keys-000189,2026-06-07T07:38:14+00:00,ENG-LAB-013,user063,teams.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.2.104.176
+evt-registry_keys-000190,2026-06-07T08:39:19+00:00,ENG-LAB-056,user022,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.3.146.109
+evt-registry_keys-000191,2026-06-07T09:01:53+00:00,ENG-LAB-047,user094,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.1.55.98
+evt-registry_keys-000192,2026-06-07T09:48:17+00:00,ENG-LAB-006,user058,msedge.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\LabUpdater,10.1.55.98
+evt-registry_keys-000193,2026-06-07T10:54:52+00:00,ENG-LAB-039,user016,reg.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\SampleService,10.3.228.230
+evt-registry_keys-000194,2026-06-07T13:08:23+00:00,ENG-LAB-034,user036,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.1.135.34
+evt-registry_keys-000195,2026-06-07T14:42:32+00:00,ENG-LAB-037,user068,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.1.159.103
+evt-registry_keys-000196,2026-06-07T15:07:15+00:00,ENG-LAB-014,user028,winword.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\SampleService,10.0.98.103
+evt-registry_keys-000197,2026-06-07T16:30:39+00:00,ENG-LAB-037,user011,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.1.110.246
+evt-registry_keys-000198,2026-06-07T16:32:22+00:00,ENG-LAB-053,user066,python.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\DemoValue,10.2.20.231
+evt-registry_keys-000199,2026-06-07T16:37:11+00:00,ENG-LAB-049,user058,reg.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.0.54.200
+evt-registry_keys-000200,2026-06-07T19:50:00+00:00,ENG-LAB-005,user033,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.194.123
+evt-registry_keys-000201,2026-06-07T20:09:31+00:00,ENG-LAB-047,user052,chrome.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.1.142.172
+evt-registry_keys-000202,2026-06-07T20:58:31+00:00,ENG-LAB-010,user034,msedge.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command,10.0.79.70
+evt-registry_keys-000203,2026-06-07T21:44:53+00:00,ENG-LAB-035,user078,svchost.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\SampleService,10.2.75.111
+evt-registry_keys-000204,2026-06-07T22:05:34+00:00,ENG-LAB-009,user021,msedge.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services,10.2.116.58
+evt-registry_keys-000205,2026-06-07T23:27:40+00:00,ENG-LAB-040,user016,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.0.161.103
+evt-registry_keys-000206,2026-06-08T01:04:36+00:00,ENG-LAB-040,user025,powershell.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.1.78.96
+evt-registry_keys-000207,2026-06-08T01:22:52+00:00,ENG-LAB-011,user074,reg.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\SampleService,10.1.196.178
+evt-registry_keys-000208,2026-06-08T03:36:22+00:00,ENG-LAB-026,user036,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.2.122.68
+evt-registry_keys-000209,2026-06-08T04:07:55+00:00,ENG-LAB-030,user011,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.2.116.58
+evt-registry_keys-000210,2026-06-08T04:18:37+00:00,ENG-LAB-058,user058,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.3.1.245
+evt-registry_keys-000211,2026-06-08T05:25:03+00:00,ENG-LAB-008,user088,msedge.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.0.142.90
+evt-registry_keys-000212,2026-06-08T07:03:58+00:00,ENG-LAB-034,user073,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.0.4.118
+evt-registry_keys-000213,2026-06-08T09:02:58+00:00,ENG-LAB-016,user073,winword.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\SampleService,10.2.250.5
+evt-registry_keys-000214,2026-06-08T09:29:46+00:00,ENG-LAB-035,user065,powershell.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services,10.2.224.231
+evt-registry_keys-000215,2026-06-08T10:27:52+00:00,ENG-LAB-021,user026,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.3.1.245
+evt-registry_keys-000216,2026-06-08T10:31:08+00:00,ENG-LAB-038,user072,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.1.216.153
+evt-registry_keys-000217,2026-06-08T10:46:29+00:00,ENG-LAB-026,user078,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.0.197.231
+evt-registry_keys-000218,2026-06-08T10:50:00+00:00,ENG-LAB-041,user016,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.1.166.216
+evt-registry_keys-000219,2026-06-08T12:42:35+00:00,ENG-LAB-052,user100,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.3.30.43
+evt-registry_keys-000220,2026-06-08T13:28:01+00:00,ENG-LAB-009,user001,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.0.226.207
+evt-registry_keys-000221,2026-06-08T16:02:51+00:00,ENG-LAB-029,user047,powershell.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.0.47.56
+evt-registry_keys-000222,2026-06-08T16:15:55+00:00,ENG-LAB-059,user020,reg.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.2.35.226
+evt-registry_keys-000223,2026-06-08T18:18:55+00:00,ENG-LAB-059,user080,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run,10.2.47.210
+evt-registry_keys-000224,2026-06-08T18:25:55+00:00,ENG-LAB-017,user023,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.3.37.117
+evt-registry_keys-000225,2026-06-08T19:10:39+00:00,ENG-LAB-047,user048,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.2.223.156
+evt-registry_keys-000226,2026-06-08T20:15:26+00:00,ENG-LAB-041,user010,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.2.107.175
+evt-registry_keys-000227,2026-06-08T21:44:49+00:00,ENG-LAB-019,user019,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.0.95.18
+evt-registry_keys-000228,2026-06-08T22:33:34+00:00,ENG-LAB-056,user068,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run,10.2.171.82
+evt-registry_keys-000229,2026-06-08T23:54:01+00:00,ENG-LAB-022,user050,reg.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.0.240.57
+evt-registry_keys-000230,2026-06-09T01:33:04+00:00,ENG-LAB-047,user036,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.3.142.208
+evt-registry_keys-000231,2026-06-09T02:54:48+00:00,ENG-LAB-029,user072,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.1.125.42
+evt-registry_keys-000232,2026-06-09T03:15:42+00:00,ENG-LAB-026,user002,teams.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command,10.2.234.81
+evt-registry_keys-000233,2026-06-09T03:52:41+00:00,ENG-LAB-030,user058,python.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\DemoValue,10.3.79.49
+evt-registry_keys-000234,2026-06-09T06:20:35+00:00,ENG-LAB-041,user035,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.0.197.98
+evt-registry_keys-000235,2026-06-09T06:37:44+00:00,ENG-LAB-016,user074,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.2.223.156
+evt-registry_keys-000236,2026-06-09T08:31:31+00:00,ENG-LAB-054,user001,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.3.49.92
+evt-registry_keys-000237,2026-06-09T08:42:53+00:00,ENG-LAB-020,user015,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.2.133.53
+evt-registry_keys-000238,2026-06-09T09:48:16+00:00,ENG-LAB-052,user052,reg.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.1.75.7
+evt-registry_keys-000239,2026-06-09T10:16:07+00:00,ENG-LAB-020,user031,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.3.167.104
+evt-registry_keys-000240,2026-06-09T11:51:42+00:00,ENG-LAB-058,user048,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.3.246.55
+evt-registry_keys-000241,2026-06-09T12:32:17+00:00,ENG-LAB-017,user024,python.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.2.65.50
+evt-registry_keys-000242,2026-06-09T12:49:43+00:00,ENG-LAB-056,user036,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.2.107.184
+evt-registry_keys-000243,2026-06-09T16:19:55+00:00,ENG-LAB-041,user020,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.2.104.176
+evt-registry_keys-000244,2026-06-09T17:19:13+00:00,ENG-LAB-035,user079,chrome.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.1.186.111
+evt-registry_keys-000245,2026-06-09T17:47:48+00:00,ENG-LAB-010,user080,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.3.79.237
+evt-registry_keys-000246,2026-06-09T19:22:15+00:00,ENG-LAB-053,user006,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.1.75.7
+evt-registry_keys-000247,2026-06-09T19:27:32+00:00,ENG-LAB-013,user010,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.2.238.114
+evt-registry_keys-000248,2026-06-09T19:38:48+00:00,ENG-LAB-041,user086,reg.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.0.201.152
+evt-registry_keys-000249,2026-06-09T19:50:53+00:00,ENG-LAB-029,user078,winword.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.2.171.82
+evt-registry_keys-000250,2026-06-09T20:20:19+00:00,ENG-LAB-032,user099,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run,10.1.110.246
+evt-registry_keys-000251,2026-06-09T20:27:35+00:00,ENG-LAB-047,user043,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.2.122.15
+evt-registry_keys-000252,2026-06-09T21:04:01+00:00,ENG-LAB-007,user011,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.3.194.70
+evt-registry_keys-000253,2026-06-09T21:05:18+00:00,ENG-LAB-041,user050,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.0.41.108
+evt-registry_keys-000254,2026-06-09T21:52:30+00:00,ENG-LAB-046,user035,teams.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\SampleService,10.3.79.49
+evt-registry_keys-000255,2026-06-09T23:43:35+00:00,ENG-LAB-035,user093,reg.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\SampleService,10.3.99.184
+evt-registry_keys-000256,2026-06-09T23:58:02+00:00,ENG-LAB-045,user099,rundll32.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.2.126.216
+evt-registry_keys-000257,2026-06-10T00:24:13+00:00,ENG-LAB-043,user058,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.1.237.171
+evt-registry_keys-000258,2026-06-10T00:48:33+00:00,ENG-LAB-031,user044,chrome.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.3.84.216
+evt-registry_keys-000259,2026-06-10T03:31:02+00:00,ENG-LAB-010,user019,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.1.62.117
+evt-registry_keys-000260,2026-06-10T04:13:29+00:00,ENG-LAB-056,user060,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.180.77
+evt-registry_keys-000261,2026-06-10T04:26:48+00:00,ENG-LAB-060,user006,outlook.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services,10.0.54.200
+evt-registry_keys-000262,2026-06-10T04:45:36+00:00,ENG-LAB-036,user008,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.1.13.144
+evt-registry_keys-000263,2026-06-10T04:55:37+00:00,ENG-LAB-027,user075,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.3.109.131
+evt-registry_keys-000264,2026-06-10T04:59:54+00:00,ENG-LAB-017,user019,svchost.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System,10.0.37.138
+evt-registry_keys-000265,2026-06-10T05:56:14+00:00,ENG-LAB-016,user059,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.3.108.238
+evt-registry_keys-000266,2026-06-10T06:01:41+00:00,ENG-LAB-056,user097,powershell.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.2.116.58
+evt-registry_keys-000267,2026-06-10T06:21:09+00:00,ENG-LAB-050,user070,teams.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\SampleService,10.2.125.58
+evt-registry_keys-000268,2026-06-10T06:23:49+00:00,ENG-LAB-036,user093,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.1.78.96
+evt-registry_keys-000269,2026-06-10T07:26:07+00:00,ENG-LAB-018,user083,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.2.36.156
+evt-registry_keys-000270,2026-06-10T07:50:07+00:00,ENG-LAB-060,user083,python.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\SampleService,10.0.70.39
+evt-registry_keys-000271,2026-06-10T08:07:45+00:00,ENG-LAB-057,user070,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.2.47.210
+evt-registry_keys-000272,2026-06-10T09:49:53+00:00,ENG-LAB-041,user047,winword.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\DemoValue,10.0.193.21
+evt-registry_keys-000273,2026-06-10T10:32:27+00:00,ENG-LAB-007,user040,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.3.84.216
+evt-registry_keys-000274,2026-06-10T12:16:51+00:00,ENG-LAB-060,user031,outlook.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.0.117.151
+evt-registry_keys-000275,2026-06-10T13:15:48+00:00,ENG-LAB-046,user017,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.1.65.169
+evt-registry_keys-000276,2026-06-10T14:26:23+00:00,ENG-LAB-051,user041,teams.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\SampleService,10.1.170.201
+evt-registry_keys-000277,2026-06-10T14:43:43+00:00,ENG-LAB-047,user008,winword.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.0.199.87
+evt-registry_keys-000278,2026-06-10T15:29:59+00:00,ENG-LAB-023,user071,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.2.234.81
+evt-registry_keys-000279,2026-06-10T15:38:05+00:00,ENG-LAB-028,user033,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.120.104
+evt-registry_keys-000280,2026-06-10T18:02:31+00:00,ENG-LAB-058,user012,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.2.75.111
+evt-registry_keys-000281,2026-06-10T18:09:11+00:00,ENG-LAB-024,user059,msedge.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.2.133.53
+evt-registry_keys-000282,2026-06-10T19:43:56+00:00,ENG-LAB-045,user098,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.1.158.58
+evt-registry_keys-000283,2026-06-10T20:23:57+00:00,ENG-LAB-043,user050,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run,10.1.148.253
+evt-registry_keys-000284,2026-06-10T20:43:35+00:00,ENG-LAB-036,user067,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.2.142.222
+evt-registry_keys-000285,2026-06-10T21:45:35+00:00,ENG-LAB-045,user063,winword.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.0.120.104
+evt-registry_keys-000286,2026-06-11T00:02:07+00:00,ENG-LAB-042,user061,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run,10.1.243.116
+evt-registry_keys-000287,2026-06-11T02:33:48+00:00,ENG-LAB-021,user014,outlook.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\LabUpdater,10.0.185.225
+evt-registry_keys-000288,2026-06-11T02:43:01+00:00,ENG-LAB-047,user069,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.3.112.46
+evt-registry_keys-000289,2026-06-11T03:19:38+00:00,ENG-LAB-042,user086,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.1.78.96
+evt-registry_keys-000290,2026-06-11T07:01:28+00:00,ENG-LAB-025,user060,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.3.25.143
+evt-registry_keys-000291,2026-06-11T07:52:14+00:00,ENG-LAB-006,user017,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.2.222.41
+evt-registry_keys-000292,2026-06-11T11:24:26+00:00,ENG-LAB-030,user097,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.1.220.202
+evt-registry_keys-000293,2026-06-11T11:59:31+00:00,ENG-LAB-040,user069,rundll32.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\DemoValue,10.1.216.153
+evt-registry_keys-000294,2026-06-11T12:52:47+00:00,ENG-LAB-048,user064,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.0.4.118
+evt-registry_keys-000295,2026-06-11T12:59:37+00:00,ENG-LAB-029,user088,msedge.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\DemoValue,10.0.155.74
+evt-registry_keys-000296,2026-06-11T13:32:00+00:00,ENG-LAB-014,user022,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.0.58.175
+evt-registry_keys-000297,2026-06-11T14:06:32+00:00,ENG-LAB-008,user062,teams.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\SampleService,10.3.186.42
+evt-registry_keys-000298,2026-06-11T14:16:33+00:00,ENG-LAB-033,user065,teams.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\TestPersistence,10.1.243.116
+evt-registry_keys-000299,2026-06-11T16:17:02+00:00,ENG-LAB-021,user040,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.3.109.131
+evt-registry_keys-000300,2026-06-11T16:48:06+00:00,ENG-LAB-035,user084,rundll32.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\DemoValue,10.3.93.13
+evt-registry_keys-000301,2026-06-11T16:54:34+00:00,ENG-LAB-007,user019,rundll32.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.0.240.57
+evt-registry_keys-000302,2026-06-11T17:35:25+00:00,ENG-LAB-034,user091,msedge.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.0.152.216
+evt-registry_keys-000303,2026-06-11T17:53:49+00:00,ENG-LAB-008,user053,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.3.208.85
+evt-registry_keys-000304,2026-06-11T20:34:42+00:00,ENG-LAB-041,user007,outlook.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.2.29.13
+evt-registry_keys-000305,2026-06-11T21:29:06+00:00,ENG-LAB-008,user030,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.3.186.42
+evt-registry_keys-000306,2026-06-11T22:39:52+00:00,ENG-LAB-011,user098,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.3.128.249
+evt-registry_keys-000307,2026-06-11T23:56:11+00:00,ENG-LAB-059,user044,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.2.222.41
+evt-registry_keys-000308,2026-06-12T01:10:15+00:00,ENG-LAB-038,user064,winword.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.3.25.143
+evt-registry_keys-000309,2026-06-12T01:22:24+00:00,ENG-LAB-015,user071,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\LabUpdater,10.3.208.49
+evt-registry_keys-000310,2026-06-12T03:21:52+00:00,ENG-LAB-014,user053,svchost.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.1.170.201
+evt-registry_keys-000311,2026-06-12T03:24:33+00:00,ENG-LAB-017,user050,python.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.2.238.114
+evt-registry_keys-000312,2026-06-12T03:56:09+00:00,ENG-LAB-032,user089,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.0.125.252
+evt-registry_keys-000313,2026-06-12T04:01:12+00:00,ENG-LAB-051,user052,chrome.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command,10.2.20.231
+evt-registry_keys-000314,2026-06-12T04:19:50+00:00,ENG-LAB-047,user088,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.3.65.252
+evt-registry_keys-000315,2026-06-12T04:27:57+00:00,ENG-LAB-053,user076,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.2.47.210
+evt-registry_keys-000316,2026-06-12T06:28:28+00:00,ENG-LAB-029,user077,outlook.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\SampleService,10.0.235.138
+evt-registry_keys-000317,2026-06-12T08:58:54+00:00,ENG-LAB-006,user043,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.3.214.138
+evt-registry_keys-000318,2026-06-12T10:03:14+00:00,ENG-LAB-040,user006,reg.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command,10.0.37.138
+evt-registry_keys-000319,2026-06-12T11:15:41+00:00,ENG-LAB-019,user097,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.3.186.42
+evt-registry_keys-000320,2026-06-12T11:31:51+00:00,ENG-LAB-007,user064,powershell.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\LabUpdater,10.0.226.207
+evt-registry_keys-000321,2026-06-12T12:44:24+00:00,ENG-LAB-037,user040,msedge.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\TestPersistence,10.3.167.104
+evt-registry_keys-000322,2026-06-12T13:05:18+00:00,ENG-LAB-042,user017,outlook.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\LabUpdater,10.0.180.77
+evt-registry_keys-000323,2026-06-12T14:01:35+00:00,ENG-LAB-012,user056,teams.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.2.47.210
+evt-registry_keys-000324,2026-06-12T14:03:57+00:00,ENG-LAB-054,user022,reg.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System,10.3.169.241
+evt-registry_keys-000325,2026-06-12T14:40:02+00:00,ENG-LAB-053,user013,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.2.135.207
+evt-registry_keys-000326,2026-06-12T15:16:12+00:00,ENG-LAB-004,user079,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.2.4.171
+evt-registry_keys-000327,2026-06-12T15:27:19+00:00,ENG-LAB-010,user009,rundll32.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.0.197.231
+evt-registry_keys-000328,2026-06-12T16:19:42+00:00,ENG-LAB-021,user017,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.1.186.111
+evt-registry_keys-000329,2026-06-12T16:41:02+00:00,ENG-LAB-043,user100,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.1.35.12
+evt-registry_keys-000330,2026-06-12T18:04:51+00:00,ENG-LAB-020,user096,reg.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\SampleService,10.3.0.134
+evt-registry_keys-000331,2026-06-12T19:22:43+00:00,ENG-LAB-018,user057,winword.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command,10.2.234.81
+evt-registry_keys-000332,2026-06-12T20:58:12+00:00,ENG-LAB-056,user075,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.1.252.24
+evt-registry_keys-000333,2026-06-12T22:27:06+00:00,ENG-LAB-016,user055,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.0.47.56
+evt-registry_keys-000334,2026-06-12T22:41:38+00:00,ENG-LAB-039,user013,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.1.242.63
+evt-registry_keys-000335,2026-06-12T22:45:34+00:00,ENG-LAB-006,user034,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.2.219.230
+evt-registry_keys-000336,2026-06-13T01:58:23+00:00,ENG-LAB-005,user064,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.1.13.144
+evt-registry_keys-000337,2026-06-13T02:56:33+00:00,ENG-LAB-040,user081,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.3.208.49
+evt-registry_keys-000338,2026-06-13T03:00:42+00:00,ENG-LAB-037,user028,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.2.238.114
+evt-registry_keys-000339,2026-06-13T04:19:50+00:00,ENG-LAB-024,user075,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.0.56.40
+evt-registry_keys-000340,2026-06-13T05:12:47+00:00,ENG-LAB-041,user098,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.2.126.216
+evt-registry_keys-000341,2026-06-13T06:22:41+00:00,ENG-LAB-024,user008,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.1.216.153
+evt-registry_keys-000342,2026-06-13T06:25:11+00:00,ENG-LAB-004,user004,outlook.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.2.53.241
+evt-registry_keys-000343,2026-06-13T07:12:54+00:00,ENG-LAB-011,user014,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.3.128.249
+evt-registry_keys-000344,2026-06-13T10:03:51+00:00,ENG-LAB-006,user031,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run,10.0.240.57
+evt-registry_keys-000345,2026-06-13T10:08:27+00:00,ENG-LAB-040,user085,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.0.117.18
+evt-registry_keys-000346,2026-06-13T10:08:47+00:00,ENG-LAB-013,user030,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.2.126.216
+evt-registry_keys-000347,2026-06-13T11:20:52+00:00,ENG-LAB-006,user027,rundll32.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\TestPersistence,10.0.201.152
+evt-registry_keys-000348,2026-06-13T12:37:42+00:00,ENG-LAB-011,user095,winword.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services,10.2.33.55
+evt-registry_keys-000349,2026-06-13T12:44:25+00:00,ENG-LAB-001,user009,winword.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\SampleService,10.1.134.42
+evt-registry_keys-000350,2026-06-13T14:10:54+00:00,ENG-LAB-001,user098,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.1.148.253
+evt-registry_keys-000351,2026-06-13T14:18:22+00:00,ENG-LAB-044,user038,svchost.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\SampleService,10.2.52.24
+evt-registry_keys-000352,2026-06-13T14:32:09+00:00,ENG-LAB-025,user069,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.2.35.226
+evt-registry_keys-000353,2026-06-13T15:09:34+00:00,ENG-LAB-025,user088,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\LabUpdater,10.2.29.13
+evt-registry_keys-000354,2026-06-13T15:24:47+00:00,ENG-LAB-012,user088,msedge.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\DemoValue,10.0.50.16
+evt-registry_keys-000355,2026-06-13T16:15:03+00:00,ENG-LAB-044,user048,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.2.142.222
+evt-registry_keys-000356,2026-06-13T16:26:17+00:00,ENG-LAB-018,user003,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.0.194.123
+evt-registry_keys-000357,2026-06-13T16:29:37+00:00,ENG-LAB-035,user099,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.0.145.132
+evt-registry_keys-000358,2026-06-13T16:50:14+00:00,ENG-LAB-022,user093,reg.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\DemoValue,10.2.194.84
+evt-registry_keys-000359,2026-06-13T16:57:43+00:00,ENG-LAB-026,user081,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.1.52.174
+evt-registry_keys-000360,2026-06-13T18:45:05+00:00,ENG-LAB-046,user100,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.3.239.222
+evt-registry_keys-000361,2026-06-13T19:10:41+00:00,ENG-LAB-045,user097,chrome.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run,10.0.169.160
+evt-registry_keys-000362,2026-06-13T20:17:41+00:00,ENG-LAB-038,user024,chrome.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.3.1.245
+evt-registry_keys-000363,2026-06-13T20:47:44+00:00,ENG-LAB-060,user078,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.37.138
+evt-registry_keys-000364,2026-06-13T21:25:13+00:00,ENG-LAB-012,user067,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.169.160
+evt-registry_keys-000365,2026-06-13T21:46:26+00:00,ENG-LAB-026,user009,rundll32.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System,10.2.185.148
+evt-registry_keys-000366,2026-06-13T21:55:33+00:00,ENG-LAB-030,user053,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.1.65.169
+evt-registry_keys-000367,2026-06-13T22:14:36+00:00,ENG-LAB-024,user009,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.3.86.169
+evt-registry_keys-000368,2026-06-13T22:40:38+00:00,ENG-LAB-023,user017,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.0.47.56
+evt-registry_keys-000369,2026-06-13T23:01:08+00:00,ENG-LAB-013,user006,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\SampleService,10.2.107.184
+evt-registry_keys-000370,2026-06-13T23:37:48+00:00,ENG-LAB-018,user071,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.1.13.144
+evt-registry_keys-000371,2026-06-14T00:32:58+00:00,ENG-LAB-015,user091,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.0.117.18
+evt-registry_keys-000372,2026-06-14T01:18:08+00:00,ENG-LAB-053,user027,reg.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.2.53.241
+evt-registry_keys-000373,2026-06-14T01:23:20+00:00,ENG-LAB-008,user059,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.0.58.175
+evt-registry_keys-000374,2026-06-14T02:16:56+00:00,ENG-LAB-058,user050,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.1.242.63
+evt-registry_keys-000375,2026-06-14T03:07:22+00:00,ENG-LAB-048,user053,msedge.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\SampleService,10.3.37.117
+evt-registry_keys-000376,2026-06-14T03:27:51+00:00,ENG-LAB-050,user064,teams.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\LabUpdater,10.3.141.12
+evt-registry_keys-000377,2026-06-14T04:05:44+00:00,ENG-LAB-009,user062,msedge.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.0.170.198
+evt-registry_keys-000378,2026-06-14T04:45:48+00:00,ENG-LAB-016,user081,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.2.91.149
+evt-registry_keys-000379,2026-06-14T04:49:43+00:00,ENG-LAB-046,user078,reg.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run,10.1.249.57
+evt-registry_keys-000380,2026-06-14T08:07:44+00:00,ENG-LAB-053,user047,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.152.216
+evt-registry_keys-000381,2026-06-14T09:17:00+00:00,ENG-LAB-007,user062,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.0.95.18
+evt-registry_keys-000382,2026-06-14T09:30:20+00:00,ENG-LAB-054,user087,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.0.185.225
+evt-registry_keys-000383,2026-06-14T10:27:17+00:00,ENG-LAB-051,user022,teams.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services,10.3.127.69
+evt-registry_keys-000384,2026-06-14T11:01:17+00:00,ENG-LAB-050,user080,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SampleService,10.3.109.131
+evt-registry_keys-000385,2026-06-14T12:28:41+00:00,ENG-LAB-042,user074,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TestPersistence,10.2.142.222
+evt-registry_keys-000386,2026-06-14T14:30:45+00:00,ENG-LAB-037,user080,reg.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.2.133.53
+evt-registry_keys-000387,2026-06-14T15:11:43+00:00,ENG-LAB-012,user008,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.1.140.113
+evt-registry_keys-000388,2026-06-14T15:31:54+00:00,ENG-LAB-025,user058,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.0.194.72
+evt-registry_keys-000389,2026-06-14T16:31:26+00:00,ENG-LAB-033,user082,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.0.169.19
+evt-registry_keys-000390,2026-06-14T17:54:14+00:00,ENG-LAB-047,user045,python.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\TestPersistence,10.3.208.49
+evt-registry_keys-000391,2026-06-14T18:16:59+00:00,ENG-LAB-027,user090,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.3.67.172
+evt-registry_keys-000392,2026-06-14T18:31:36+00:00,ENG-LAB-002,user057,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.1.140.113
+evt-registry_keys-000393,2026-06-14T19:16:38+00:00,ENG-LAB-033,user019,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.3.181.109
+evt-registry_keys-000394,2026-06-14T19:17:33+00:00,ENG-LAB-056,user086,reg.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services,10.0.117.211
+evt-registry_keys-000395,2026-06-14T20:00:50+00:00,ENG-LAB-044,user048,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.3.127.69
+evt-registry_keys-000396,2026-06-14T20:25:07+00:00,ENG-LAB-010,user051,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.1.216.153
+evt-registry_keys-000397,2026-06-14T20:30:32+00:00,ENG-LAB-003,user076,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.1.211.7
+evt-registry_keys-000398,2026-06-14T22:21:30+00:00,ENG-LAB-054,user057,reg.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.3.0.134
+evt-registry_keys-000399,2026-06-14T22:38:18+00:00,ENG-LAB-009,user009,rundll32.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\SampleService,10.3.109.139
+evt-registry_keys-000400,2026-06-14T22:44:29+00:00,ENG-LAB-023,user080,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.2.135.207
+evt-registry_keys-000401,2026-06-14T22:53:58+00:00,ENG-LAB-022,user059,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.3.141.12
+evt-registry_keys-000402,2026-06-14T23:26:35+00:00,ENG-LAB-030,user080,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.145.132
+evt-registry_keys-000403,2026-06-14T23:54:48+00:00,ENG-LAB-025,user003,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.1.237.171
+evt-registry_keys-000404,2026-06-15T01:51:08+00:00,ENG-LAB-003,user016,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.3.84.216
+evt-registry_keys-000405,2026-06-15T02:21:21+00:00,ENG-LAB-044,user059,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.1.237.171
+evt-registry_keys-000406,2026-06-15T03:14:13+00:00,ENG-LAB-034,user034,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.0.117.151
+evt-registry_keys-000407,2026-06-15T03:44:36+00:00,ENG-LAB-038,user055,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.3.93.13
+evt-registry_keys-000408,2026-06-15T04:11:04+00:00,ENG-LAB-024,user057,teams.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.0.50.16
+evt-registry_keys-000409,2026-06-15T04:22:53+00:00,ENG-LAB-005,user012,outlook.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.0.161.103
+evt-registry_keys-000410,2026-06-15T04:52:00+00:00,ENG-LAB-048,user074,chrome.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.2.122.15
+evt-registry_keys-000411,2026-06-15T05:54:34+00:00,ENG-LAB-033,user059,chrome.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.3.80.15
+evt-registry_keys-000412,2026-06-15T08:53:10+00:00,ENG-LAB-022,user081,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.2.238.114
+evt-registry_keys-000413,2026-06-15T09:29:21+00:00,ENG-LAB-039,user078,svchost.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System\DemoValue,10.1.52.174
+evt-registry_keys-000414,2026-06-15T10:54:39+00:00,ENG-LAB-038,user006,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.1.85.105
+evt-registry_keys-000415,2026-06-15T11:05:10+00:00,ENG-LAB-024,user034,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.3.73.68
+evt-registry_keys-000416,2026-06-15T11:41:27+00:00,ENG-LAB-026,user088,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.0.146.61
+evt-registry_keys-000417,2026-06-15T15:35:11+00:00,ENG-LAB-036,user061,rundll32.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.2.250.5
+evt-registry_keys-000418,2026-06-15T16:15:33+00:00,ENG-LAB-039,user068,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.0.120.104
+evt-registry_keys-000419,2026-06-15T18:03:17+00:00,ENG-LAB-006,user038,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run,10.0.180.77
+evt-registry_keys-000420,2026-06-15T22:46:05+00:00,ENG-LAB-021,user024,reg.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.2.52.24
+evt-registry_keys-000421,2026-06-15T23:57:12+00:00,ENG-LAB-050,user079,powershell.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\SampleService,10.1.243.116
+evt-registry_keys-000422,2026-06-16T00:36:36+00:00,ENG-LAB-004,user002,msedge.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\LabUpdater,10.3.208.85
+evt-registry_keys-000423,2026-06-16T01:50:38+00:00,ENG-LAB-059,user047,winword.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\TestPersistence,10.0.54.200
+evt-registry_keys-000424,2026-06-16T03:15:51+00:00,ENG-LAB-020,user100,python.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\LabUpdater,10.0.201.152
+evt-registry_keys-000425,2026-06-16T04:44:34+00:00,ENG-LAB-019,user040,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.3.212.16
+evt-registry_keys-000426,2026-06-16T05:03:59+00:00,ENG-LAB-036,user079,teams.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command,10.2.47.210
+evt-registry_keys-000427,2026-06-16T05:18:12+00:00,ENG-LAB-041,user042,outlook.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.0.155.74
+evt-registry_keys-000428,2026-06-16T06:40:08+00:00,ENG-LAB-039,user018,svchost.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.2.36.156
+evt-registry_keys-000429,2026-06-16T08:01:10+00:00,ENG-LAB-006,user051,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.3.135.238
+evt-registry_keys-000430,2026-06-16T08:06:48+00:00,ENG-LAB-058,user092,rundll32.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\SampleService,10.1.237.171
+evt-registry_keys-000431,2026-06-16T09:03:23+00:00,ENG-LAB-022,user070,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.1.215.100
+evt-registry_keys-000432,2026-06-16T11:53:35+00:00,ENG-LAB-029,user092,powershell.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.1.65.169
+evt-registry_keys-000433,2026-06-16T12:12:20+00:00,ENG-LAB-027,user004,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.0.199.87
+evt-registry_keys-000434,2026-06-16T13:17:16+00:00,ENG-LAB-019,user097,powershell.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\SampleService,10.2.185.148
+evt-registry_keys-000435,2026-06-16T13:38:55+00:00,ENG-LAB-028,user095,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.2.91.130
+evt-registry_keys-000436,2026-06-16T14:27:58+00:00,ENG-LAB-053,user090,svchost.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command,10.1.110.246
+evt-registry_keys-000437,2026-06-16T15:05:09+00:00,ENG-LAB-054,user010,winword.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.0.117.18
+evt-registry_keys-000438,2026-06-16T16:01:55+00:00,ENG-LAB-009,user048,teams.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\TestPersistence,10.0.47.56
+evt-registry_keys-000439,2026-06-16T16:29:07+00:00,ENG-LAB-060,user038,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.3.1.253
+evt-registry_keys-000440,2026-06-16T16:38:49+00:00,ENG-LAB-036,user054,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.2.107.175
+evt-registry_keys-000441,2026-06-16T16:41:04+00:00,ENG-LAB-007,user073,powershell.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.2.52.24
+evt-registry_keys-000442,2026-06-16T18:34:08+00:00,ENG-LAB-021,user090,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\SampleService,10.3.73.68
+evt-registry_keys-000443,2026-06-16T19:17:08+00:00,ENG-LAB-058,user007,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.0.161.103
+evt-registry_keys-000444,2026-06-16T19:41:35+00:00,ENG-LAB-060,user088,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\DemoValue,10.1.186.111
+evt-registry_keys-000445,2026-06-16T19:44:35+00:00,ENG-LAB-004,user033,msedge.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\LabUpdater,10.0.170.198
+evt-registry_keys-000446,2026-06-16T19:47:47+00:00,ENG-LAB-055,user094,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.3.169.241
+evt-registry_keys-000447,2026-06-16T20:13:00+00:00,ENG-LAB-027,user014,svchost.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System,10.1.252.24
+evt-registry_keys-000448,2026-06-16T20:34:24+00:00,ENG-LAB-022,user047,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.70.39
+evt-registry_keys-000449,2026-06-16T20:58:04+00:00,ENG-LAB-029,user092,chrome.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.2.111.248
+evt-registry_keys-000450,2026-06-16T22:17:50+00:00,ENG-LAB-041,user095,msedge.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.1.109.17
+evt-registry_keys-000451,2026-06-16T22:39:53+00:00,ENG-LAB-042,user012,python.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.0.25.167
+evt-registry_keys-000452,2026-06-17T00:31:53+00:00,ENG-LAB-058,user029,outlook.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.3.141.12
+evt-registry_keys-000453,2026-06-17T00:51:21+00:00,ENG-LAB-038,user031,outlook.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.0.120.104
+evt-registry_keys-000454,2026-06-17T02:19:27+00:00,ENG-LAB-043,user041,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.2.174.29
+evt-registry_keys-000455,2026-06-17T02:23:40+00:00,ENG-LAB-045,user035,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.0.117.18
+evt-registry_keys-000456,2026-06-17T02:24:04+00:00,ENG-LAB-052,user038,outlook.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\TestPersistence,10.0.47.56
+evt-registry_keys-000457,2026-06-17T03:24:41+00:00,ENG-LAB-009,user013,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.3.30.43
+evt-registry_keys-000458,2026-06-17T04:34:52+00:00,ENG-LAB-059,user034,powershell.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\TestPersistence,10.3.112.46
+evt-registry_keys-000459,2026-06-17T07:20:37+00:00,ENG-LAB-034,user088,outlook.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\SampleService,10.1.3.19
+evt-registry_keys-000460,2026-06-17T08:35:30+00:00,ENG-LAB-013,user035,chrome.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.1.0.154
+evt-registry_keys-000461,2026-06-17T10:36:40+00:00,ENG-LAB-018,user019,powershell.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\LabUpdater,10.3.109.131
+evt-registry_keys-000462,2026-06-17T10:54:01+00:00,ENG-LAB-006,user042,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.3.186.42
+evt-registry_keys-000463,2026-06-17T11:03:04+00:00,ENG-LAB-006,user097,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SampleService,10.3.65.252
+evt-registry_keys-000464,2026-06-17T11:19:07+00:00,ENG-LAB-004,user014,svchost.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.2.248.161
+evt-registry_keys-000465,2026-06-17T12:26:48+00:00,ENG-LAB-022,user016,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,10.0.125.252
+evt-registry_keys-000466,2026-06-17T12:30:42+00:00,ENG-LAB-021,user031,teams.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\DemoValue,10.3.169.241
+evt-registry_keys-000467,2026-06-17T12:33:55+00:00,ENG-LAB-004,user071,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.2.52.24
+evt-registry_keys-000468,2026-06-17T14:04:38+00:00,ENG-LAB-035,user096,reg.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LabUpdater,10.3.208.49
+evt-registry_keys-000469,2026-06-17T14:30:13+00:00,ENG-LAB-003,user038,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.2.122.68
+evt-registry_keys-000470,2026-06-17T15:31:43+00:00,ENG-LAB-038,user008,rundll32.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.2.125.58
+evt-registry_keys-000471,2026-06-17T15:38:38+00:00,ENG-LAB-039,user047,winword.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.0.146.61
+evt-registry_keys-000472,2026-06-17T16:02:04+00:00,ENG-LAB-034,user084,powershell.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.3.185.57
+evt-registry_keys-000473,2026-06-17T16:32:51+00:00,ENG-LAB-050,user003,winword.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.2.133.53
+evt-registry_keys-000474,2026-06-17T18:19:50+00:00,ENG-LAB-027,user071,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run,10.1.135.34
+evt-registry_keys-000475,2026-06-17T18:58:52+00:00,ENG-LAB-056,user088,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce,10.2.125.58
+evt-registry_keys-000476,2026-06-17T20:44:11+00:00,ENG-LAB-019,user071,rundll32.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services,10.1.32.87
+evt-registry_keys-000477,2026-06-17T21:35:49+00:00,ENG-LAB-010,user004,powershell.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\LabUpdater,10.1.135.30
+evt-registry_keys-000478,2026-06-17T23:24:43+00:00,ENG-LAB-037,user099,powershell.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.0.185.225
+evt-registry_keys-000479,2026-06-18T00:32:15+00:00,ENG-LAB-044,user063,teams.exe,registry_write,Registry Key,HKLM\Software\Classes\ms-settings\Shell\Open\command\DemoValue,10.1.75.7
+evt-registry_keys-000480,2026-06-18T01:14:25+00:00,ENG-LAB-049,user033,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\TestPersistence,10.1.170.201
+evt-registry_keys-000481,2026-06-18T02:55:17+00:00,ENG-LAB-004,user005,reg.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\TestPersistence,10.1.75.168
+evt-registry_keys-000482,2026-06-18T03:11:34+00:00,ENG-LAB-050,user013,reg.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System,10.0.31.192
+evt-registry_keys-000483,2026-06-18T03:14:34+00:00,ENG-LAB-041,user006,python.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.0.12.190
+evt-registry_keys-000484,2026-06-18T05:17:35+00:00,ENG-LAB-035,user023,reg.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\LabUpdater,10.0.119.222
+evt-registry_keys-000485,2026-06-18T06:54:56+00:00,ENG-LAB-031,user044,winword.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\LabUpdater,10.1.140.113
+evt-registry_keys-000486,2026-06-18T07:08:20+00:00,ENG-LAB-030,user022,outlook.exe,registry_write,Registry Key,HKLM\Software\Policies\Microsoft\Windows\System,10.0.81.179
+evt-registry_keys-000487,2026-06-18T08:14:40+00:00,ENG-LAB-003,user073,python.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run,10.3.253.103
+evt-registry_keys-000488,2026-06-18T08:29:59+00:00,ENG-LAB-032,user041,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DemoValue,10.0.180.77
+evt-registry_keys-000489,2026-06-18T09:07:26+00:00,ENG-LAB-058,user004,rundll32.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\TestPersistence,10.3.84.68
+evt-registry_keys-000490,2026-06-18T10:36:12+00:00,ENG-LAB-052,user068,svchost.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\DemoValue,10.0.199.87
+evt-registry_keys-000491,2026-06-18T10:45:40+00:00,ENG-LAB-051,user040,teams.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.2.63.185
+evt-registry_keys-000492,2026-06-18T12:29:17+00:00,ENG-LAB-046,user019,svchost.exe,registry_write,Registry Key,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\TestPersistence,10.0.117.18
+evt-registry_keys-000493,2026-06-18T14:24:37+00:00,ENG-LAB-048,user090,msedge.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\DemoValue,10.0.54.200
+evt-registry_keys-000494,2026-06-18T15:02:04+00:00,ENG-LAB-040,user009,python.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System\TestPersistence,10.0.58.175
+evt-registry_keys-000495,2026-06-18T15:32:54+00:00,ENG-LAB-043,user095,rundll32.exe,registry_write,Registry Key,HKCU\Software\Classes\ms-settings\Shell\Open\command\TestPersistence,10.3.176.187
+evt-registry_keys-000496,2026-06-18T18:26:01+00:00,ENG-LAB-060,user065,rundll32.exe,registry_write,Registry Key,HKCU\Software\Policies\Microsoft\Windows\System,10.0.152.216
+evt-registry_keys-000497,2026-06-18T19:21:19+00:00,ENG-LAB-050,user041,winword.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.3.127.69
+evt-registry_keys-000498,2026-06-18T19:42:11+00:00,ENG-LAB-035,user016,rundll32.exe,registry_write,Registry Key,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\LabUpdater,10.0.126.149
+evt-registry_keys-000499,2026-06-18T22:06:17+00:00,ENG-LAB-001,user008,msedge.exe,registry_write,Registry Key,HKCU\System\CurrentControlSet\Services\LabUpdater,10.3.253.103
+evt-registry_keys-000500,2026-06-18T23:26:42+00:00,ENG-LAB-012,user075,reg.exe,registry_write,Registry Key,HKLM\System\CurrentControlSet\Services\DemoValue,10.1.110.246
